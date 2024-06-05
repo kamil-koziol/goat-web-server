@@ -1,6 +1,6 @@
-# HTTP Server Starter Rust
+# HTTP Web Server
 
-A lightweight, customizable HTTP server library for Rust, designed to help you get a web server up and running quickly. This library supports adding routes with various HTTP methods and serving files from directories with route matching.
+A lightweight, customizable HTTP server library for Rust, designed to help you get a web server up and running quickly. This library supports adding routes with various HTTP methods and serving files from directories with route matching. Done with the help of codecrafters (requirements and tests)
 
 ## Features
 
