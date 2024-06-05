@@ -1,0 +1,4 @@
+[package]
+name = "goat-ws"
+version = "0.1.0"
+authors = ["Kamil Kozioł <kamil.koziol@kamilkoziol.com>"]
